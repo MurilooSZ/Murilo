@@ -102,8 +102,7 @@ sections:
           organization_url: https://ead.senar.org.br/
           title: Digital Agriculture
           url: https://ead.senar.org.br/
-    
-  - block: collection
+    - block: collection
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
