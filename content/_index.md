@@ -16,10 +16,10 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Geospatial
+          description: 70%
+          icon: globe
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
