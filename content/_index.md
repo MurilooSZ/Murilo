@@ -56,7 +56,7 @@ sections:
         - title: Trainee Agricultura Digital  
           company: Amaggi - Fazenda Independência
           company_url: 'https://www.amaggi.com.br/'
-          company_logo: org-gc
+          company_logo: Sem título
           location: Santo Antônio do Leste - MT
           date_start: '2023-02-01'
           date_end: '2023-05-30'
