@@ -62,10 +62,7 @@ sections:
           date_end: '2023-05-30'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+            - Implementação, manutenção e treinamento do sistema de telemetria; Projetos de linha (Controle de tráfego das operações); Conservação e manutenções de estações meteorológicas; Configuração de aplicação a taxa variável pulverizadores e semeadora; Ferramenta (SIG): Mapas de produtividade, chuva e temáticos; Configuração e calibração de monitores; Elaboração de relatórios e análise de indicadores das operações; Calibração de faixa de Adubadores; Suporte a aferição de bico dos pulverizadores com ferramenta digital;
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
