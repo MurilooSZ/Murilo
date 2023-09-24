@@ -36,6 +36,11 @@ sections:
           description: 50%
           icon: python
           icon_pack: fab
+        - name: Resilience
+          description: 90%
+          icon: handshake
+          icon_pack: fas
+    
   - block: experience
     content:
       title: Experience
