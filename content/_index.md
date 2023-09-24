@@ -28,6 +28,10 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+        - name: Office Pack 
+          description: 80%
+          icon: office pack
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
