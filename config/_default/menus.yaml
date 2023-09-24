@@ -24,6 +24,6 @@ main:
     weight: 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: Currículo
+  - name: Curriculum
     url: uploads/Curricul_recente.pdf
     weight: 70
