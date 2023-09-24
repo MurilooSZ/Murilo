@@ -102,8 +102,7 @@ sections:
           organization_url: https://ead.senar.org.br/
           title: Digital Agriculture
           url: https://ead.senar.org.br/
-    design:
-       columns: '2'
+    
   - block: collection
       # Choose how many pages you would like to offset by
       offset: 0
