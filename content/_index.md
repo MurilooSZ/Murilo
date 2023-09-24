@@ -81,27 +81,27 @@ sections:
         - certificate_url: https://drive.google.com/file/d/1yppGgk33H-9vP61uUZs5wJaD-EY4aS9x/view
           date_end: ''
           date_start: '2023-04-06'
-          description: 'Agricultura de precisão. Sensoriamento remoto.'
+          description: Precision agriculture. Remote sensing.
           organization: TECGRAF AGRO
           organization_url: https://tecgraf.com.br/
           title: Sistematização de Culturas utilizando o AgroCAD360 
           url: https://tecgraf.com.br/
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://drive.google.com/file/d/1rvfyIUue29tVa2Hy7k0WG8n0nb2QWM8Y/view?usp=drivesdk
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2023-02-26'
+          description: Precision agriculture.
+          organization: SOLINFTEC
+          organization_url: https://www.solinftec.com/pt-br/
+          title: SGPA - Automated Process Management System
+          url: https://www.solinftec.com/pt-br/
+        - certificate_url: https://drive.google.com/file/d/1RZ00Q4xF61CdHhBP260RmpYuYp9F8LL-/view
+          date_end: ''
+          date_start: '2023-02-03'
+          description: Precision agriculture.
+          organization: SENAR-MT
+          organization_url: https://ead.senar.org.br/
+          title: Digital Agriculture
+          url: https://ead.senar.org.br/
     design:
       columns: '2'
   - block: collection
