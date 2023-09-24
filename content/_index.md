@@ -24,11 +24,11 @@ sections:
           description: 60%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: 3D Projects
+          description: 70%
+          icon: draw-polygon
           icon_pack: fas
-        - name: Office Pack 
+        - name: Microsoft Office
           description: 80%
           icon: microsoft
           icon_pack: fab
