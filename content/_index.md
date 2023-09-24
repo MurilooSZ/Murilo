@@ -30,7 +30,11 @@ sections:
           icon_pack: fas
         - name: Office Pack 
           description: 80%
-          icon: office pack
+          icon: microsoft
+          icon_pack: fab
+        - name: Python
+          description: 50%
+          icon: python
           icon_pack: fab
   - block: experience
     content:
