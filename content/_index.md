@@ -62,8 +62,7 @@ sections:
           date_end: '2023-05-30'
           description: |2-
               Responsibilities include:
-            - Implementação, manutenção e treinamento do sistema de telemetria; Projetos de linha (Controle de tráfego das operações); Conservação e manutenções de estações meteorológicas; Configuração de aplicação a taxa variável pulverizadores e semeadora; Ferramenta (SIG): Mapas de produtividade, chuva e temáticos; Configuração e calibração de monitores; Elaboração de relatórios e análise de indicadores das operações; Calibração de faixa de Adubadores; Suporte a aferição de bico dos pulverizadores com ferramenta digital;
-
+            - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
     design:
       columns: '2'
   - block: accomplishments
@@ -79,14 +78,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://drive.google.com/file/d/1yppGgk33H-9vP61uUZs5wJaD-EY4aS9x/view
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          date_start: '2023-04-06'
+          description: 'Agricultura de precisão. Sensoriamento remoto.'
+          organization: TECGRAF AGRO
+          organization_url: https://tecgraf.com.br/
+          title: Sistematização de Culturas utilizando o AgroCAD360 
+          url: https://tecgraf.com.br/
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
