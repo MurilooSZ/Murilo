@@ -129,7 +129,7 @@ sections:
         - name: All
           tag: '*'
         - name: Introduction to Precision Agriculture
-          tag: Deep Learning
+          tag: Precision Farming Tools
         - name: Other
           tag: Demo
     design:
