@@ -109,8 +109,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-    view: compact
-      columns:'2'
+      view: compact
+      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -125,17 +125,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-    buttons:
+      buttons:
         - name: All
-          tag:
-        - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
-          tag: Indices and spectral band algebra
+          tag: '*'
         - name: Introduction to Precision Agriculture
           tag: Precision Farming Tools
         - name: GIS Information Systems applied to Precision Agriculture
           tag: GEOGRAPHIC INFORMATION SYSTEMS
-        - name: Spectral Indices: SR and NDVI - Unsupervised and Supervised Classification
-          tag: Indices and spectral band algebra
         - name: Other
           tag: Demo
     design:
