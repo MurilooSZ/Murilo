@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Personal'
+    description: 'Murilo Santos de Souza, Agricultural and environmental engineer, specialist in precision agriculture.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Murilo Santos de Souza. This work is licensed under {license}. Feel free to copy or adapt according to your interest'
     license:
       enable: true
       allow_derivatives: false
