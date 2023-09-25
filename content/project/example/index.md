@@ -1,6 +1,6 @@
 ---
 title:  Introduction to Precision Agriculture
-summary: An example of using the in-built project page.
+summary: Work presentation. 
 tags:
   - Precision Farming Tools
 date: '2016-04-27T00:00:00Z'
@@ -24,7 +24,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
 ---
 
 Create a proposal for Precision Agriculture (AP) solutions for a Model Farm, containing at least 5 precision agriculture solutions. For each solution, a summary was made of which business "pain/problem" it would help at Fazenda Modelo.
