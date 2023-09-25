@@ -109,7 +109,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+    view: compact
       columns:'2'
   - block: portfolio
     id: projects
