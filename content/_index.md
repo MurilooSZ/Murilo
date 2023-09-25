@@ -128,7 +128,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Introduction to Precision Agriculture
           tag: Deep Learning
         - name: Other
           tag: Demo
