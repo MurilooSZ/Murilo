@@ -1,5 +1,5 @@
 ---
-title:  Introduction to Precision Agriculture
+title:  GIS Information Systems applied to Precision Agriculture
 summary: Work presentation. 
 tags:
   - Precision Farming Tools
