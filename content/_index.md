@@ -1,5 +1,5 @@
-
-
+---
+# Leave the homepage title empty to use the site title
 title: home
 date: 2022-10-24
 type: landing
@@ -63,9 +63,9 @@ sections:
           description: |2-
               Responsibilities include:
             - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
-design:
-   columns: '2'
-- block: accomplishments
+    design:
+      columns: '2'
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -103,11 +103,11 @@ design:
           title: Digital Agriculture
           url: https://ead.senar.org.br/
     design:
-        columns: '2'
-    - block: collection
-      id: posts
-      content:
-        title: Recent Posts
+      columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
