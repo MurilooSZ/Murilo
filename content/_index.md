@@ -130,6 +130,8 @@ sections:
           tag: '*'
         - name: Introduction to Precision Agriculture
           tag: Precision Farming Tools
+        - name: GIS Information Systems applied to Precision Agriculture
+          tag: GEOGRAPHIC INFORMATION SYSTEMS
         - name: Other
           tag: Demo
     design:
