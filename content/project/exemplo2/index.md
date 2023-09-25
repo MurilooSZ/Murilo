@@ -1,8 +1,8 @@
 ---
-title:  GIS Information Systems applied to Precision Agriculture
+title:  Technological Challenge Project
 summary: Work presentation. 
 tags: 
-  - GEOGRAPHIC INFORMATION SYSTEMS
+  - Combination of Technological Tools
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ image:
   
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1vSwu5hudZbcKbT6xRtVrSQEyz6gB9Smc/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1aRxRAZkosIn-lesCgf_gOv1xt9wAV_Y_/view?usp=sharing
 url_video: ''
 
 # Slides (optional).
