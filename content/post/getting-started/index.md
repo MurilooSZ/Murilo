@@ -29,12 +29,10 @@ image:
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
+  - Murilo
 
 tags:
-  - Academic
-  - 开源
+  - Portifólio
 
 categories:
   - Demo
