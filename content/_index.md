@@ -130,6 +130,8 @@ sections:
           tag: '*'
         - name: Introduction to Precision Agriculture
           tag: Precision Farming Tools
+        - name: Technological Challenge Projecte
+          tag: Combination of Technological Tools  
         - name: GIS Information Systems applied to Precision Agriculture
           tag: GEOGRAPHIC INFORMATION SYSTEMS
         - name: SR or NDVI spectral indices e Unsupervised and Supervised Classification
