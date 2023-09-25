@@ -134,6 +134,8 @@ sections:
           tag: Precision Farming Tools
         - name: GIS Information Systems applied to Precision Agriculture
           tag: GEOGRAPHIC INFORMATION SYSTEMS
+        - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
+          tag: Indices and spectral band algebra
         - name: Other
           tag: Demo
     design:
