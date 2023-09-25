@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Engenheiro Agrícola e Ambiental 
+role: Agricultural and Environmental Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://multiversidade.pucpr.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Engenheiro Agrícola e Ambiental | MBA em Agricultura Digital - Inteligência Artificial e Big Data
+bio: Agricultural and Environmental Engineer | MBA in Digital Agriculture - Artificial Intelligence and Big Data
 
 # Interests to show in About widget
 interests:
