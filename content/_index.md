@@ -127,14 +127,14 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
     buttons:
         - name: All
-          tag: '*'
+    tag: '*'
         - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
           tag: Indices and spectral band algebra
         - name: Introduction to Precision Agriculture
           tag: Precision Farming Tools
         - name: GIS Information Systems applied to Precision Agriculture
           tag: GEOGRAPHIC INFORMATION SYSTEMS
-        - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
+        - name: Spectral Indices: SR and NDVI - Unsupervised and Supervised Classification
           tag: Indices and spectral band algebra
         - name: Other
           tag: Demo
