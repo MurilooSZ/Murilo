@@ -128,6 +128,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
+          tag: Indices and spectral band algebra
         - name: Introduction to Precision Agriculture
           tag: Precision Farming Tools
         - name: GIS Information Systems applied to Precision Agriculture
