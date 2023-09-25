@@ -8,12 +8,14 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
 
+
+
+links: []
+
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-
+  
 url_code: ''
 url_pdf: ''
 url_slides: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
@@ -24,7 +26,6 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
 ---
 
 Create a proposal for Precision Agriculture (AP) solutions for a Model Farm, containing at least 5 precision agriculture solutions. For each solution, a summary was made of which business "pain/problem" it would help at Fazenda Modelo.
