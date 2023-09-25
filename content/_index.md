@@ -125,7 +125,7 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
+    buttons:
         - name: All
           tag: '*'
         - name: Spectral Indices: SR and NDVI-Unsupervised and Supervised Classification
