@@ -134,6 +134,8 @@ sections:
           tag: GEOGRAPHIC INFORMATION SYSTEMS
         - name: SR or NDVI spectral indices e Unsupervised and Supervised Classification
           tag: Spectral indices
+            - name: Technological Challenge Project
+          tag: Combination of Technological Tools
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
