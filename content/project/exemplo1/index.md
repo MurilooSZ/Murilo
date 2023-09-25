@@ -1,8 +1,8 @@
 ---
 title:  GIS Information Systems applied to Precision Agriculture
 summary: Work presentation. 
-tags:
-  - Precision Farming Tools
+tags: 
+  - GEOGRAPHIC INFORMATION SYSTEMS
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ image:
   
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1vSwu5hudZbcKbT6xRtVrSQEyz6gB9Smc/view?usp=sharing
 url_video: ''
 
 # Slides (optional).
@@ -28,17 +28,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 ---
 
-Create a proposal for Precision Agriculture (AP) solutions for a Model Farm, containing at least 5 precision agriculture solutions. For each solution, a summary was made of which business "pain/problem" it would help at Fazenda Modelo.
-The work was presented to all students using PowerPoint.
+Based on data on soil sand content, interpolation was carried out using the Kriging method.
 
-Proposed Solutions:
+Using experimental data on soil sand content, adjusting the different semivariogram models and determining which one best fits the data. Using the notes on the statistical parameters, the model was chosen.
 
-Mapping of the farm and definitions of the environment of each plot with vegetative indices;
-
-Avoid planting failures;
-
-Improve the use of area and productivity;
-
-Improve sending harvesting/planting/spraying data and also machine parameters remotely;
-
-Remote sensing.
+Based on the results, the best semivariogram model is the “GAUSSIAN”, as its RMSE has a value of 8.877 and an R2 of 0.994. Remembering that the Gaussian model curve best represents the distribution of my data in space.
