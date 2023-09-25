@@ -6,7 +6,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
+external_link: ''
 
 
 
