@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Annals of the UFR Teaching, Research, Extension and Innovation Congress (CONNECT UFR), 1*(1)"
 publication_short: ""
 
-abstract: Precision livestock farming is a concept defined by the automation of practices that
+abstract: 'Precision livestock farming is a concept defined by the automation of practices that
 consider, when possible, the variability of individualized responses from
 animals. In current livestock farming, its use is essential for the producer to achieve better
 results, maximizing economic gains and minimizing damage to animals and
@@ -61,7 +61,7 @@ It was not possible to carry out the field test, however the laboratory test wit
 images obtained from the database demonstrated that the developed prototype has
 potential for automating the ECC assessment process, which will enable the
 producer an aid in decision-making regarding the management of his herd and
-consequently increased productivity and profitability.
+consequently increased productivity and profitability.'
 
 
 # Summary. An optional shortened abstract.
