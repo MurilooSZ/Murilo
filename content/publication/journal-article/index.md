@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Development of a device to determine the body score of cattle"
 authors:
 - admin
-- Robert Ford
+- Jofran Luiz de Oliveira
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
