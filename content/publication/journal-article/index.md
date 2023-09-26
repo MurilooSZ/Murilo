@@ -1,4 +1,4 @@
----
+
 title: "Development of a device to determine the body score of cattle"
 authors:
 - admin
@@ -101,4 +101,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
+
