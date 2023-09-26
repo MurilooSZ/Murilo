@@ -7,7 +7,7 @@ event_url: https://ufr.edu.br/noticia/ufr-promove-congresso-de-ensino-pesquisa-e
 location: Rondonópoolis MT
 address:
   street: Student Avenue
-  city:  Rondonópoolis
+  city:  Rondonópolis
   region: MT
   postcode: ''
   country: Brazil
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: video
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
