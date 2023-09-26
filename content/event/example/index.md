@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: UFR Teaching, research, extension and innovation Congress
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Connect_UFR_2021
+event_url: https://ufr.edu.br/noticia/ufr-promove-congresso-de-ensino-pesquisa-extensao-e-inovacao-da-ufr-connect-ufr-2021/
 
-location: Wowchemy HQ
+location: Rondonópoolis MT
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Student Avenue
+  city:  Rondonópoolis
+  region: MT
+  postcode: ''
+  country: Brazil
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The Federal University of Rondonópolis (UFR) promoted the UFR Teaching, Research, Extension and Innovation Congress (Connect UFR 2021).
+abstract: ' Video of the Scientific Initiation work focused on precision livestock farming using computer vision, presented at the “UFR Teaching, Research, Extension and Innovation Congress - Connect_UFR_2021”. Held at the Federal University of Rondonópolis, supervised by professor Dr. Jofran Luiz de Oliveira.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2021-11-30T13:00:00Z'
+date_end: '2030-11-30T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
