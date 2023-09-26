@@ -1,4 +1,4 @@
----
+
 title: UFR Teaching, research, extension and innovation Congress
 
 event: Connect_UFR_2021
@@ -53,5 +53,5 @@ url_video: 'https://www.youtube.com/watch?v=pjS2Y8FZOUQ'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #   projects: - example
----
+
 
