@@ -1,4 +1,4 @@
----
+  ---
 title: "Development of a device to determine the body score of cattle"
 authors:
 - admin
