@@ -1,4 +1,5 @@
 ---
+
 título: Exemplo de conversa
 
 evento: Conferência Wowchemy
@@ -52,7 +53,7 @@ url_video: ''
 slides: exemplar
 
 # Projetos (opcional).
-# A Associa este post a um ou mais de seus projetos.
+# Uma Associação está post um ou mais de seus projetos.
 # Basta inserir uma massa ou o nome do arquivo do seu projeto sem extensão.
 # Por exemplo. `projetos = ["projeto interno"]` referências `conteúdo/projeto/aprendizagem profunda/index.md`.
 # Caso contrário, defina `projetos = []`.
