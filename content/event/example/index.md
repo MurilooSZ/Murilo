@@ -1,25 +1,26 @@
 ---
 título: Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR
-evento: Conferência Wowchemy
-evento_url: https://example.org
+evento: Connect_UFR_2021
+evento_url: https://ufr.edu.br/noticia/ufr-promove-congresso-de-ensino-pesquisa-extensao-e-inovacao-da-ufr-connect-ufr-2021/
 
-localização: Wowchemy HQ
+localização: UFR - Universidade Federal de Rondonópolis
 endereço:
-  rua: Shopping Serra 450
-  cidade: Stanford
-  região: CA
-  postal Código: '94305'
-  pais: Estados Unidos
+  rua: Av. dos Estudantes, 5055 - Cidade Universitária
+  cidade: Rondonópolis
+  região: Mato Grosso
+  postal Código: '78736900'
+  pais: Brasil
 
-resumo: 'Um exemplo de palestra usando o recurso de slides Markdown do Wowchemy. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+resumo: 'A Universidade Federal de Rondonópolis (UFR) promoveu o Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR (Connect UFR 2021).'
+abstrato: 'Vídeo do trabalho de iniciação científica focada na pecuária de precisão utilizando visão computacional, apresentado no Congresso de Ensino, Pesquisa, Extensão e Inovação “UFR - Connect_UFR_2021”. Realizado na Universidade Federal de Rondonópolis, orientado pelo professor Dr. Jofran Luiz de Oliveira.'
 
-dados: '2030-06-01T13:00:00Z'
-data_fim: '2030-06-01T15:00:00Z'
+dados: '30T13/11/2021:00:00Z'
+data_fim: '2030-11-30T15:00:00Z'
 all_day: false
 
-data_de_publicacao: '2017-01-01T00:00:00Z'
+data_de_publicacao: '2021-12-23T00:00:00Z'
 
-autores: []
+autores: Murilo Santos de Souza, Jofran Luiz de Oliveira
 etiquetas: []
 
 destaque: false
@@ -33,10 +34,10 @@ links:
     icon_pack: fabuloso
     nome: Siga
     url: https://twitter.com/georgecushen
-  - ícone: 
-    icon_pack: 
-    nome: 
-    url: 
+  - ícone: youtube
+    icon_pack: fabuloso
+    nome: Murilo
+    url_video: https://www.youtube.com/watch?v=pjS2Y8FZOUQ
 
 slides: exemplar
 
