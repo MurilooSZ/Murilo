@@ -1,72 +1,72 @@
 ---
-title: Example Talk
+título: Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR
 
-event: Wowchemy Conference
-event_url: https://example.org
+evento: Conferência Wowchemy
+evento_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+localização: Wowchemy HQ
+endereço:
+ rua: Shopping Serra 450
+ cidade: Stanford
+ região: CA
+ postal Código: '94305'
+ pais: Estados Unidos
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+resumo: Um exemplo de palestra usando o recurso de slides Markdown do Wowchemy.
+resumo: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+# Fale sobre os horários de início e termino.
+# O diário de trmino pode opcionalmente ser oculto prefixando uma linha com `#`.
+dados: '2030-06-01T13:00:00Z'
+data_fim: '2030-06-01T15:00:00Z'
+all_day: falso
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# Agenda a data de publicação da página (NÃO a data de conversação).
+dados de publicação: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+autores: []
+etiquetas: []
 
-# Is this a featured talk? (true/false)
-featured: false
+# Isto é uma palestra em desestaque? (verdadeiro/falso)
+destaque: falso
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+imagem:
+ legenda: 'Crédito da imagem: [**Desmontar**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+ ponto_focal: Certo
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+  - ícone: twitter
+ icon_pack: fabuloso
+ nome: Siga
+ url: https://twitter.com/georgecushen
+côdigo_url: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+# Marcação de slides (opcional).
+# Associe esta palestra aos slides do Markdown.
+# Basta inserir o nome do arquivo do seu slide deck sem extensão.
+# Por exemplo. `slides = "exemplo-slides"` referências `conteúdo/slides/exemplo-slides.md`.
+# Caso contrário, defina `slides = ""`.
+slides: exemplar
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+# Projetos (opcional).
+# Uma Associação está post um ou mais de seus projetos.
+# Basta inserir uma massa ou o nome do arquivo do seu projeto sem extensão.
+# Por exemplo. `projetos = ["projeto interno"]` referências `conteúdo/projeto/aprendizagem profunda/index.md`.
+# Caso contrário, defina `projetos = []`.
+projetos:
+  - exemplar
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+{{% nota de chamada %}}
+Clique no **Slides** botão acima para visualizar o recurso de slides integrados.
+{{% /chamada %}}
 
-Slides can be added in a few ways:
+Os slides podem ser adicionados de algomas maneiras:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Criar** slides usando Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) recurso e link usando `deslizamentos` parâmetro no assunto frontal do arquivo de conversação
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
