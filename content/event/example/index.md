@@ -6,7 +6,7 @@ evento_url: https://ufr.edu.br/noticia/ufr-promove-congresso-de-ensino-pesquisa-
 
 localização: UFR - Universidade Federal de Rondonópolis
 endereço:
- rua: Av. dos Estudantes, 5055, Cidade Universitária
+ rua: Av. dos Estudantes, '5055', Cidade Universitária
  cidade: Rondonópolis
  região: Mato Grosso
  postal Código: '78736900'
