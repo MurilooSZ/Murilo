@@ -1,4 +1,5 @@
 ---
+
 título: Exemplo de conversa
 
 evento: Conferência Wowchemy
@@ -59,6 +60,7 @@ slides: exemplar
 projetos:
   - exemplar
 ---
+
 
 {{% nota de chamada %}}
 Clique no **Slides** botão acima para visualizar o recurso de slides integrados.
