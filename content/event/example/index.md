@@ -9,7 +9,7 @@ endereço:
  rua: Av. dos Estudantes, 5055 - Cidade Universitária
  cidade: Rondonópolis
  região: Mato Grosso
- postal Código: 78736-900
+ postal Código: '78736-900'
  pais: Brasi
 
 resumo: A Universidade Federal de Rondonópolis (UFR) promoveu o Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR (Connect UFR 2021).
