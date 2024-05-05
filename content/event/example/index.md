@@ -1,5 +1,4 @@
----
-título: Exemplo de conversa
+ --- - --- ---
 
 evento: Conferência Wowchemy
 evento_url: https://example.org
