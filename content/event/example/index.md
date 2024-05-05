@@ -5,8 +5,8 @@ evento_url: https://example.org
 
 localização: Wowchemy HQ
 endereço:
- rua: Shopping Serra 450
- cidade: Stanford
+  rua: Shopping Serra 450
+  cidade: Stanford
   região: CA
   postal Código: '94305'
   pais: Estados Unidos
@@ -54,4 +54,4 @@ Os slides podem ser adicionados de algumas maneiras:
 - **Carregar** um deck de slides existente para o diretório `estático/` e link usando o parâmetro `url_slides` no cabeçalho do arquivo de conversa.
 - **Incorporar** slides de sua plataforma preferida (por exemplo, Google Slides) ou vídeo de apresentação nesta página usando [códigos curtos](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Mais detalhes do evento, incluindo [elementos de pagina](https://wowchemy.com/docs/writing-markdown-latex/) como galerias de imagens, poder ser adicionados ao corpo desta pagina.
+Mais detalhes do evento, incluindo [elementos de página](https://wowchemy.com/docs/writing-markdown-latex/) como galerias de imagens, podem ser adicionados ao corpo desta página.
