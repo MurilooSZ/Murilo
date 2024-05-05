@@ -1,30 +1,31 @@
 ---
-title: Example Talk
+title: Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR
 
-event: Wowchemy Conference
-event_url: https://example.org
 
-location: Wowchemy HQ
+event: Connect_UFR_2021
+event_url: https://ufr.edu.br/noticia/ufr-promove-congresso-de-ensino-pesquisa-extensao-e-inovacao-da-ufr-connect-ufr-2021/
+
+location: UFR - Universidade Federal de Rondonópolis
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Av. dos Estudantes, 5055 - Cidade Universitária
+  city: Rondonópolis
+  region: Mato Grosso
+  postcode: '78736900'
+  country: Brasil
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A Universidade Federal de Rondonópolis (UFR) promoveu o Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR (Connect UFR 2021).
+abstract: 'Vídeo do trabalho de iniciação científica focada na pecuária de precisão utilizando visão computacional, apresentado no Congresso de Ensino, Pesquisa, Extensão e Inovação “UFR - Connect_UFR_2021”. Realizado na Universidade Federal de Rondonópolis, orientado pelo professor Dr. Jofran Luiz de Oliveira.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: 30T13/11/2021:00:00Z'
+date_end: '2030-11-30T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-12-23T00:00:00Z'
 
-authors: []
+authors: Murilo Santos de Souza, Jofran Luiz de Oliveira
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -35,14 +36,14 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: CONNECT UFR 2021
+    url: https://www.youtube.com/watch?v=B4NI55XLZO8&list=PLCVPSFnZsOiCoN8jgVIFeoCAN-gvDKLMu
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://even3.blob.core.windows.net/anais/439528.pdf'
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=pjS2Y8FZOUQ'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
