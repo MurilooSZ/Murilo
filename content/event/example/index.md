@@ -1,5 +1,5 @@
 ---
-título: Exemplo de conversa
+título: Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR
 evento: Conferência Wowchemy
 evento_url: https://example.org
 
