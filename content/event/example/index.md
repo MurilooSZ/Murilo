@@ -10,8 +10,8 @@ endereço:
  cidade: Rondonópolis
  região: Mato Grosso
  postal Código: '78736-900'
- pais: Brasi
-
+ pais: Brasil
+ 
 resumo: A Universidade Federal de Rondonópolis (UFR) promoveu o Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR (Connect UFR 2021).
 resumo: 'Vídeo do trabalho de iniciação científica focada na pecuária de precisão utilizando visão computacional, apresentado no Congresso de Ensino, Pesquisa, Extensão e Inovação “UFR - Connect_UFR_2021”. Realizado na Universidade Federal de Rondonópolis, orientado pelo professor Dr. Jofran Luiz de Oliveira.'
 
