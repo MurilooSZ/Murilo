@@ -1,4 +1,5 @@
- --- - --- ---
+---
+título: Exemplo de conversa
 
 evento: Conferência Wowchemy
 evento_url: https://example.org
@@ -58,15 +59,3 @@ slides: exemplar
 projetos:
   - exemplar
 ---
-
-{{% nota de chamada %}}
-Clique no **Slides** botão acima para visualizar o recurso de slides integrados.
-{{% /chamada %}}
-
-Os slides podem ser adicionados de algomas maneiras:
-
-- **Criar** slides usando Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) recurso e link usando `deslizamentos` parâmetro no assunto frontal do arquivo de conversação
-- **Carregar** um deck de slides existente para `estático/` e link usando `url_slides` parâmetro no assunto frontal do arquivo de conversação
-- **Incorporar** slides de Seus (por exemplo. Google Slides) ou vídeo de apresentação nesta página usando [côdigos curtos](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Mais detalhes do evento, incluindo [elementos página](https://wowchemy.com/docs/writing-markdown-latex/) como galerias de imagens, poder ser adicionadas ao corpo desta pagina.
