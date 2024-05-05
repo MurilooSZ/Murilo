@@ -1,5 +1,5 @@
 ---
-título: Congresso de Ensino, Pesquisa, Extensão e Inovação da UFR
+título: Exemplo de conversa
 
 evento: Conferência Wowchemy
 evento_url: https://example.org
@@ -52,7 +52,7 @@ url_video: ''
 slides: exemplar
 
 # Projetos (opcional).
-# Uma Associação está post um ou mais de seus projetos.
+# A Associa este post a um ou mais de seus projetos.
 # Basta inserir uma massa ou o nome do arquivo do seu projeto sem extensão.
 # Por exemplo. `projetos = ["projeto interno"]` referências `conteúdo/projeto/aprendizagem profunda/index.md`.
 # Caso contrário, defina `projetos = []`.
@@ -67,7 +67,7 @@ Clique no **Slides** botão acima para visualizar o recurso de slides integrados
 Os slides podem ser adicionados de algomas maneiras:
 
 - **Criar** slides usando Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) recurso e link usando `deslizamentos` parâmetro no assunto frontal do arquivo de conversação
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+- **Carregar** um deck de slides existente para `estático/` e link usando `url_slides` parâmetro no assunto frontal do arquivo de conversação
+- **Incorporar** slides de Seus (por exemplo. Google Slides) ou vídeo de apresentação nesta página usando [côdigos curtos](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Mais detalhes do evento, incluindo [elementos página](https://wowchemy.com/docs/writing-markdown-latex/) como galerias de imagens, poder ser adicionadas ao corpo desta pagina.
