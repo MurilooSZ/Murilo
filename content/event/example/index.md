@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-12-23T00:00:00Z'
 
-authors: Murilo Santos de Souza, Jofran Luiz de Oliveira
+authors: [Murilo Santos de Souza, Jofran Luiz de Oliveira]
 tags: []
 
 # Is this a featured talk? (true/false)
