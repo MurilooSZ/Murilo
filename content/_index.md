@@ -65,6 +65,19 @@ sections:
             - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
     design:
       columns: '2'
+    items:
+        - title: Trainee Agricultura Digital  
+          company: Amaggi - Fazenda Independência
+          company_url: 'https://www.amaggi.com.br/'
+          company_logo: Sem-título
+          location: Santo Antônio do Leste - MT
+          date_start: '2023-02-01'
+          date_end: '2023-05-30'
+          description: |2-
+              Responsibilities include:
+            - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
