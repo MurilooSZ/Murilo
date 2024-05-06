@@ -42,7 +42,7 @@ links:
     url: https://www.youtube.com/watch?v=B4NI55XLZO8&list=PLCVPSFnZsOiCoN8jgVIFeoCAN-gvDKLMu
 url_code: ''
 url_pdf: 'https://even3.blob.core.windows.net/anais/439528.pdf'
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1X8fhUauWW_X4I5HqyWeQC053QPO9uevM/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true'
 url_video: 'https://www.youtube.com/watch?v=pjS2Y8FZOUQ'
 
 # Markdown Slides (optional).
@@ -61,14 +61,4 @@ url_video: 'https://www.youtube.com/watch?v=pjS2Y8FZOUQ'
 #  - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
