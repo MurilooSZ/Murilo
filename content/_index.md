@@ -53,14 +53,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
-        - title: Analista de Projetos AgroCAD
-          company: M.A. Máquinas Agrícolas
-          company_url: 'https://www.mamaquinas.com.br'
-          company_logo: Sem-título
-          location: Cascavel - PR 
-          date_start: '2023-12-04'
-          date_end: 'Atual'
-          description: Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
         - title: Trainee Agricultura Digital  
           company: Amaggi - Fazenda Independência
           company_url: 'https://www.amaggi.com.br/'
@@ -71,6 +63,15 @@ sections:
           description: |2-
               Responsibilities include:
             - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
+        - title: Analista de Projetos AgroCAD
+          company: M.A. Máquinas Agrícolas
+          company_url: 'https://www.mamaquinas.com.br'
+          company_logo: Sem-título
+          location: Cascavel - PR 
+          date_start: '2023-12-04'
+          date_end: ''
+          description: Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
+        
 
     design:
       columns: '2'
