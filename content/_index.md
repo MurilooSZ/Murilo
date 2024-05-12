@@ -56,7 +56,7 @@ sections:
         - title: Analista de Projetos AgroCAD
           company: M.A. Máquinas Agrícolas
           company_url: 'https://www.mamaquinas.com.br'
-          company_logo: Sem-título
+          company_logo: 
           location: Cascavel - PR 
           date_start: '2023-12-04'
           date_end: ''
