@@ -25,7 +25,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: 2D Projects
-          description: 70%
+          description: 100%
           icon: draw-polygon
           icon_pack: fas
         - name: Microsoft Office
