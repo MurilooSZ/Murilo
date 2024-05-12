@@ -71,9 +71,7 @@ sections:
           location: Cascavel - PR 
           date_start: '2023-12-04'
           date_end: 'Atual'
-          description: |2-
-              Responsibilities include:
-            -  Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
+          description: Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
     design:
       columns: '2'
   - block: accomplishments
