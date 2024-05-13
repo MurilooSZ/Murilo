@@ -24,7 +24,7 @@ sections:
           description: 60%
           icon: chart-line
           icon_pack: fas
-        - name: 2D Projects
+        - name: 2D Projections
           description: 100%
           icon: draw-polygon
           icon_pack: fas
