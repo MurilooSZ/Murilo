@@ -1,90 +1,97 @@
 ---
-# Leave the homepage title empty to use the site title
-title: home
-date: 2022-10-24
-type: landing
+# Deixe o título da pagina inicial vazio para usar o título do site
+título: home
+dados: 24/10/2022
+tipo: pouso
 
-sections:
+sessões:
 
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Geospatial
-          description: 70%
-          icon: globe
-          icon_pack: fas
-        - name: Statistics
-          description: 60%
-          icon: chart-line
-          icon_pack: fas
-        - name: 2D Projections
-          description: 100%
-          icon: draw-polygon
-          icon_pack: fas
-        - name: Microsoft Office
-          description: 80%
-          icon: microsoft
-          icon_pack: fab
-        - name: Python
-          description: 50%
-          icon: python
-          icon_pack: fab
-        - name: Resilience
-          description: 90%
-          icon: handshake
-          icon_pack: fas
+  - bloco: sobre.biografia
+ id: sobre
+ conteúdo:
+ título: Biografia
+      # Escola um perfil de usuário para exibir (um nome de massa dentrada `conteúdo/autores/`)
+ nome de usuário: admin
+  - bloco: características
+ conteúdo:
+ título: Habilidades
+ itens:
+ - nome: Geoespacial
+ descrição: 70%
+ ícone: globo
+ icon_pack: fas
+ - nome: Estatísticas
+ descrição: 60%
+ ícone: linha do gráfico
+ icon_pack: fas
+ - nome: Projeções 2D
+ descrição: 100%
+ ícone: desenho-polígono
+ icon_pack: fas
+ - nome: Microsoft Office
+ descrição: 80%
+ ícone: microsoft
+ icon_pack: fabuloso
+ - nome: Python
+ descrição: 50%
+ ícone: python
+ icon_pack: fabuloso
+ - nome: Resiliência
+ descrição: 90%
+ ícone: aperto de mão
+ icon_pack: fas
     
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Analista de Projetos AgroCAD
-          company: M.A. Máquinas Agrícolas
-          company_url: 'https://www.mamaquinas.com.br'
-          company_logo: MA
-          location: Cascavel - PR 
-          date_start: '2023-12-04'
-          date_end: ''
-          description: Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
+  - bloco: experiência
+ conteúdo:
+ título: Experiência
+      # Formato de dados para experiência
+      # Consulte https://wowchemy.com/docs/customization/#date-format
+ data_formato: janeiro de 2006
+ # Experiências.
+ # Adicionar/remover tantos `experiência` itens abaixo como você gosta.
+ # Os campos obrigatórios são `título`, `empresa`, e `data_início`.
+ # Deixar `dados_fim` vazio se for o seu empreendedor atual.
+ # Comece descrições de vias linhas com YAML's `|2-` prefixo multi-linha.
+ itens:
+ - título: Analista de Projetos AgroCAD
+ empresa: MA. Máquinas Agrícola
+ empresa_url: 'https://www.mamaquinas.com.br'
+ empresa_logotipo: MA
+ localização: Cascavel - PR 
+ dados_início: '12/04/2023'
+ data_fim: ''
+ descrição: - Monitoramento de equipamentos de agrícolas, gestão dos equipamentos agrícolas ativos, controle de todas as informações referente a monitoramento de equipamentos, contato proativo à clientes e venda de valor da tecnologia ao cliente.
 
-        - title: Trainee Agricultura Digital  
-          company: Amaggi - Fazenda Independência
-          company_url: 'https://www.amaggi.com.br/'
-          company_logo: Sem-título
-          location: Santo Antônio do Leste - MT
-          date_start: '2023-02-01'
-          date_end: '2023-05-30'
-          description: |2-
-              Responsibilities include:
-            - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
+Realizar as visitas a clientes estratégicos junto as lojas; 
+Trabalhar com o projeto de tráfego direcionado na lavoura; 
+Realizar paralelismo de linhas no plantio e pulverização; 
+Atuar com foco na otimização da área plantada; 
+Apresentar aos clientes soluções para redução de custo em combustível; 
+Dar suporte a equipe de Vendas e Pós-Venda em demonstrações de produtos de tecnologia com Agrocad.
+
+
+        - título: Trainee Agricultura Digital 
+        empresa: Amaggi - Fazenda Independência
+        empresa_url: 'https://www.amaggi.com.br/'
+        company_logo: Sem-título
+        localização: Santo Antônio do Leste - MT
+        dados_início: '01/02/2023'
+        data_fim: '30/05/2023'
+        descrição: |2-
+        - Implementação, manutenção e treinamento do sistema de telemetria; Projetos de linhas de plantio (controle de tráfego de operações); Conservação e manutenção de estações perigosas; Configuração de aplicação de taxa variável por pulverização e semeadora; Ferramentação (GIS): Produtividade, chuva e mapas temáticos; Configuração e configuração de monitores; Elaboração de relatórios e análise de indicadores operacionais; Calibração da folha de fertilizantes; Medição do bico de pulverização de suporte com ferramenta digital;
         
 
-    design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
+ design:
+ colunas: '2'
+  - bloco: realizações
+ conteúdo:
+      # Nota: `&tímido;` é usado para adicionar um hífen 'suave' em um cabeçalho longo.
+ título: 'Realizar&tímido;mentos'
+ subtítulo:
+ # Formato da data: https://wowchemy.com/docs/customization/#date-format
+ data_formato: janeiro de 2006
+ # Realizações.
+ # Adicionar/remover tantos `item` blocos abaixo como você gosta.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
