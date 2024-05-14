@@ -58,7 +58,8 @@ sections:
           location: Cascavel - PR 
           date_start: '2023-12-04'
           date_end: ''
-          description: Realizar toda parte de geoprocessamento de dados, sistemas de tráfego de maquinas agrícolas, agricultura de precisão e acompanhamento de manifestações de máquinas agrícola.
+          description: Monitoramento de equipamentos de agricultura, gestão dos equipamentos agrícolas ativos, controle de todas as informações referente a monitoramento de equipamentos, contato proativo à clientes e venda de valor da            tecnologia ao cliente. Realizar as visitas a clientes estratégicos junto às lojas; Trabalhar com o projeto de tráfego direcionado na lavoura; Realizar paralelismo de linhas no plantio e pulverização; Atuar com foco na otimização da área plantada; Apresentar aos clientes soluções para redução de custo em combustível; Dar suporte a equipe de Vendas e Pós-Venda em demonstrações de produtos de tecnologia com Agrocad.
+
         - title: Trainee Agricultura Digital  
           company: Amaggi - Fazenda Independência
           company_url: 'https://www.amaggi.com.br/'
