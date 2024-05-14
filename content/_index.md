@@ -173,8 +173,8 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: ''
-        city: Rondonópolis
-        region: MT
+        city: Cascavel
+        region: PR
         postcode: ''
         country: Brazil
         country_code: BR
