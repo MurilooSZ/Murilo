@@ -51,8 +51,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Analista de Projetos AgroCAD
-          company: M.A. Máquinas Agrícolas
+        - title: AgroCAD Project Analyst
+          company: M.A. Agricultural Machines
           company_url: 'https://www.mamaquinas.com.br'
           company_logo: MA
           location: Cascavel - PR 
@@ -60,7 +60,7 @@ sections:
           date_end: ''
           description: Monitoring of agricultural equipment, management of active agricultural equipment, control of all information regarding equipment monitoring, proactive contact with customers and selling the value of the technology to the customer. Carry out visits to strategic customers in stores; Work with the targeted traffic project on the farm; Carry out parallel lines when planting and spraying; Work with a focus on optimizing the planted area; Present solutions to customers to reduce fuel costs; Support the Sales and After-Sales team in demonstrations of technology products with Agrocad.
 
-        - title: Trainee Agricultura Digital  
+        - title: Digital Agriculture Trainee  
           company: Amaggi - Fazenda Independência
           company_url: 'https://www.amaggi.com.br/'
           company_logo: Sem-título
@@ -68,7 +68,6 @@ sections:
           date_start: '2023-02-01'
           date_end: '2023-05-30'
           description: |2-
-              Responsibilities include:
             - Implementation, maintenance and training of the telemetry system; Planting line projects (operations traffic control); Conservation and maintenance of dangerous stations; Spray and seeder variable rate application configuration; Tool (GIS): Productivity, rain and thematic maps; Configuration and configuration of monitors; Preparation of reports and analysis of operational indicators; Fertilizer range calibration; Support spray nozzle measurement with a digital tool;
         
     design:
