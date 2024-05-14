@@ -91,7 +91,7 @@ sections:
           description: Precision agriculture. Remote sensing.
           organization: TECGRAF AGRO
           organization_url: https://tecgraf.com.br/
-          title: Sistematização de Culturas utilizando o AgroCAD360 
+          title: Crop Systematization using AgroCAD360 
           url: https://tecgraf.com.br/
         - certificate_url: https://drive.google.com/file/d/1rvfyIUue29tVa2Hy7k0WG8n0nb2QWM8Y/view?usp=drivesdk
           date_end: ''
