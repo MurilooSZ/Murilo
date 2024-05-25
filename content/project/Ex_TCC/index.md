@@ -8,17 +8,17 @@ tags:
 date: '2022-11-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://biblioteca.ufr.edu.br/acervo/323881'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: library
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name:  Pergamum
+    url: https://biblioteca.ufr.edu.br/acervo/323881
 url_code: ''
 url_pdf: ''
 url_slides: ''
