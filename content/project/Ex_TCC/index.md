@@ -8,7 +8,7 @@ tags:
 date: '2022-11-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://biblioteca.ufr.edu.br/acervo/323881'
 
 image:
   caption: Photo by rawpixel on Unsplash
