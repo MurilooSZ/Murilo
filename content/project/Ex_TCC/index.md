@@ -22,7 +22,7 @@ links:
 url_code: ''
 url_pdf: 'https://biblioteca.ufr.edu.br/pergamumweb/vinculos/00003b/00003bf4.pdf'
 url_slides: 'https://drive.google.com/file/d/1E4wuiPtHNW43-HGfXhF8Lg_HqgvEu-Qj/view?usp=sharing'
-url_video: ''
+url_video: 'https://drive.google.com/file/d/19ezy9FiWmQX1CM1T056eM7hasfjQM3ii/view?usp=sharing'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
