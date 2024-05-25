@@ -1,6 +1,6 @@
 ---
 title: Computer Vision
-summary: An example of using the in-built project page.
+summary: Model for detecting broad- and narrow-leaved weeds using deep learning. 
 tags:
   - Deep Learning
   - OpenCV
@@ -24,12 +24,6 @@ url_pdf: 'https://biblioteca.ufr.edu.br/pergamumweb/vinculos/00003b/00003bf4.pdf
 url_slides: ''
 url_video: 'https://drive.google.com/file/d/19ezy9FiWmQX1CM1T056eM7hasfjQM3ii/view?usp=sharing'
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Soy is an important source of protein used in animal and human nutrition, in addition to being used in the production of cooking oil and biofuels. Weeds are any non-cultivated plants that grow in crops, and it is essential to identify them to determine the best management, aiming to reduce losses and improve economic viability.
