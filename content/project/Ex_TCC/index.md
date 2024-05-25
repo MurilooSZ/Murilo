@@ -21,7 +21,7 @@ links:
     url: https://biblioteca.ufr.edu.br/acervo/323881
 url_code: ''
 url_pdf: 'https://biblioteca.ufr.edu.br/pergamumweb/vinculos/00003b/00003bf4.pdf'
-url_slides: 'https://drive.google.com/file/d/1E4wuiPtHNW43-HGfXhF8Lg_HqgvEu-Qj/view'
+url_slides: 'https://docs.google.com/presentation/d/14pVGnM19s7RLfGpGf1UM8hpsiGzbS2R1/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true'
 url_video: 'https://drive.google.com/file/d/19ezy9FiWmQX1CM1T056eM7hasfjQM3ii/view?usp=sharing'
 
 # Slides (optional).
