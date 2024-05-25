@@ -20,8 +20,8 @@ links:
     name:  Pergamum
     url: https://biblioteca.ufr.edu.br/acervo/323881
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://biblioteca.ufr.edu.br/pergamumweb/vinculos/00003b/00003bf4.pdf'
+url_slides: 'https://docs.google.com/presentation/d/1vaLKGL0A0GXX9t8esnQ6EEs7qdJTXAmD/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).
