@@ -1,8 +1,13 @@
 ---
-title:  Technological Challenge Project
-summary: Work presentation. 
+title:  Crop Modelling
+summary: Data Storytelling at Crop Modelling. 
 tags: 
-  - Combination of Technological Tools
+  - DataAnalytics
+  - DataInsights
+  - BigData
+  - AgriculturalModelling
+  - CropSimulation
+  - YieldPrediction
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
