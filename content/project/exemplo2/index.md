@@ -1,6 +1,6 @@
 ---
-title: Modelagem de culturas
-summary: Contação de histórias de dados na Modelagem de Culturas. 
+title: Crop modeling
+summary: Data Storytelling in Culture Modeling. 
 tags: 
   - Data analysis
   - DataInsights
