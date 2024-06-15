@@ -23,7 +23,7 @@ imagem:
   
 côdigo_url: ''
 url_pdf: 'https://drive.google.com/file/d/1FCDiV3EBGYNGRgA82eSHme4LCw3CUuuQ/view?usp=sharing'
-url_slides: https://docs.google.com/presentation/d/1EONOJ9b5SunEcEvYvC4SYg1T91JvczXR/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true
+url_slides: https://drive.google.com/file/d/1TSTN7CwY5K-KIQ_VCANnzR8jMjMOiLlO/view?usp=sharing
 url_video: ''
 
 # Slides (opcional).
