@@ -23,7 +23,7 @@ image:
   
 url_code: ''
 url_pdf: ''
-url_slides: https://drive.google.com/file/d/1aRxRAZkosIn-lesCgf_gOv1xt9wAV_Y_/view?usp=sharing
+url_slides: https://docs.google.com/presentation/d/1EONOJ9b5SunEcEvYvC4SYg1T91JvczXR/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true
 url_video: ''
 
 # Slides (optional).
