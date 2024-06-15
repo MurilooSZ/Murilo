@@ -1,27 +1,27 @@
 ---
-título: Modelagem de culturas
-resumo: Contação de histórias de dados na Modelagem de Culturas. 
-etiquetas: 
-  - Análise de dados
-  - DadosInsights
-  - BigData
-  - Modelagem Agrícola
-  - CropSimulação
-  - Previsão de rendimento
-dados: '2024-05-19T00:00:00Z'
+title: Modelagem de culturas
+summary: Contação de histórias de dados na Modelagem de Culturas. 
+tags: 
+  - Data analysis
+  - DataInsights
+  - Big data
+  - Agricultural Modeling
+  - CropSimulation
+  - Yield forecast
+date: '2024-05-19T00:00:00Z'
 
-# URL externo opcional para o projeto (substitui a página de detalhes do projeto).
-externo_link: ''
+# Optional external URL for project (replaces project detail page).
+external_link: ''
 
 
 
 links: []
 
-imagem:
- legenda: Foto de rawpixel no Unsplash
- ponto_focal: Inteligente
+image:
+ caption: Foto de rawpixel no Unsplash
+ focal_point: Inteligente
   
-côdigo_url: ''
+url_code: ''
 url_pdf: 'https://drive.google.com/file/d/1FCDiV3EBGYNGRgA82eSHme4LCw3CUuuQ/view?usp=sharing'
 url_slides: https://drive.google.com/file/d/1TSTN7CwY5K-KIQ_VCANnzR8jMjMOiLlO/view?usp=sharing
 url_video: ''
@@ -33,8 +33,12 @@ url_video: ''
 # Caso contrário, defina `slides = ""`.
 ---
 
-Com base nos dados do teor de areia do solo, uma interpolação para uma realização pelo método de Krigagem.
+Development of a data analysis script in Python, following the stages of data extraction and understanding, data preparation, modeling, results evaluation, and presentation.
 
-Utilizando dados experimentais sobre o teor de areia do solo, justando os diferentes modelos de semivariograma e determinando qual deles melhor se apenas todos dados. Utilizando como notas sobre os parâmetros estatísticos, optou-se pelo modelo.
+In summary, crop modeling is a scientific technique that integrates agricultural information, environmental data, and computational technology to simulate the growth, development, and production of agricultural plants.
 
-Com base nos resultados, o melhor modelo de semivariograma é o “GAUSSIAN”, pois seu RMSE tem valor de 8.877 e R2 de 0.994. Lembrando que uma curva do modelo gaussiano representa melhor distribuição dos meus dados no espaço.
+For this study, three databases were used: historical productivity, historical climate, and input estimates. The variables considered include precipitation (P), temperature (T), evapotranspiration by Penman-Monteith (ETP), accumulated deficit (NAC), and current water storage in the soil (ARM).
+
+The Lasso Regression model presented the best results, achieving the highest values in the statistical metrics of MAE, MSE, MAPE, and 𝑅2. 
+
+As a result, an average production estimate of 4,520 tons of soybeans for the 2024/25 harvest was obtained.
