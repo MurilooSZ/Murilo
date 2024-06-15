@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Agricultural systematization projects
+summary: Projects to implement practices and technologies to organize, optimize and automate agricultural operations.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
