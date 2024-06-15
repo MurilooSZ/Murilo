@@ -1,40 +1,40 @@
 ---
-title:  Crop Modelling
-summary: Data Storytelling at Crop Modelling. 
-tags: 
-  - DataAnalytics
-  - DataInsights
+título: Modelagem de culturas
+resumo: Contação de histórias de dados na Modelagem de Culturas. 
+etiquetas: 
+  - Análise de dados
+  - DadosInsights
   - BigData
-  - AgriculturalModelling
-  - CropSimulation
-  - YieldPrediction
-date: '2024-05-19T00:00:00Z'
+  - Modelagem Agrícola
+  - CropSimulação
+  - Previsão de rendimento
+dados: '2024-05-19T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
+# URL externo opcional para o projeto (substitui a página de detalhes do projeto).
+externo_link: ''
 
 
 
 links: []
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+imagem:
+ legenda: Foto de rawpixel no Unsplash
+ ponto_focal: Inteligente
   
-url_code: ''
-url_pdf: ''
+côdigo_url: ''
+url_pdf: 'https://drive.google.com/file/d/1FCDiV3EBGYNGRgA82eSHme4LCw3CUuuQ/view?usp=sharing'
 url_slides: https://docs.google.com/presentation/d/1EONOJ9b5SunEcEvYvC4SYg1T91JvczXR/edit?usp=sharing&ouid=111563602474775318937&rtpof=true&sd=true
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+# Slides (opcional).
+# Associação este projeto com slides Markdown.
+# Basta inserir o nome do arquivo do seu slide deck sem extensão.
+# Por exemplo. `slides = "exemplo-slides"` referências `conteúdo/slides/exemplo-slides.md`.
+# Caso contrário, defina `slides = ""`.
 ---
 
-Based on data on soil sand content, interpolation was carried out using the Kriging method.
+Com base nos dados do teor de areia do solo, uma interpolação para uma realização pelo método de Krigagem.
 
-Using experimental data on soil sand content, adjusting the different semivariogram models and determining which one best fits the data. Using the notes on the statistical parameters, the model was chosen.
+Utilizando dados experimentais sobre o teor de areia do solo, justando os diferentes modelos de semivariograma e determinando qual deles melhor se apenas todos dados. Utilizando como notas sobre os parâmetros estatísticos, optou-se pelo modelo.
 
-Based on the results, the best semivariogram model is the “GAUSSIAN”, as its RMSE has a value of 8.877 and an R2 of 0.994. Remembering that the Gaussian model curve best represents the distribution of my data in space.
+Com base nos resultados, o melhor modelo de semivariograma é o “GAUSSIAN”, pois seu RMSE tem valor de 8.877 e R2 de 0.994. Lembrando que uma curva do modelo gaussiano representa melhor distribuição dos meus dados no espaço.
