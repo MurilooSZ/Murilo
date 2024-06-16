@@ -23,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#   slides: example
 ---
 
 A planting project was developed in an area of ​​200 hectares close to the city of Mirassol d'Oeste, MT. The planting lines were arranged following the contour lines of the terraces, with a spacing of 7 meters between them. Simultaneously, a spraying project was implemented in an area of ​​100 hectares, where headland maneuvers were fully automated, resulting in a fully automated spraying path.
