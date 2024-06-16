@@ -16,7 +16,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
   
-url_code: ''
+url_code: 'https://colab.research.google.com/drive/17-sene78ZrxZ_lFLMsq_28x7QsPjGH_S?usp=sharing'
 url_pdf: 'https://drive.google.com/file/d/1CxgCB8wMVYgbWW0Q3WI7qYRtiUEaI05g/view?usp=sharing'
 url_slides: 
 url_video: 'https://drive.google.com/file/d/1aF2BMsa1tLMZzJbbQOb3NbohvlevuvPN/view?usp=sharing'
