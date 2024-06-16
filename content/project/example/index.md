@@ -1,6 +1,6 @@
 ---
 title:  Data Science in Agriculture
-summary: Work presentation. 
+summary: Application of data science in agriculture involving the use of data analysis, machine learning and statistics techniques. 
 tags:
   - Precision Farming Tools
 date: '2016-04-27T00:00:00Z'
