@@ -6,7 +6,7 @@ tags:
 date: '2023-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://s3.amazonaws.com/resources.tecgraf.com.br/AG_UPLOADS/375c4038-7ee0-451c-8a23-c7c3077a3f26.htm'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -15,7 +15,7 @@ image:
 links:
 url_code: ''
 url_pdf: 'https://drive.google.com/file/d/1-4wWl6iUdunc2MKa8F0mzyWaQdy-fDN3/view?usp=sharing'
-url_slides: ''
+url_slides: 'https://s3.amazonaws.com/resources.tecgraf.com.br/AG_UPLOADS/375c4038-7ee0-451c-8a23-c7c3077a3f26.htm'
 url_video: ''
 
 # Slides (optional).
