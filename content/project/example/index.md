@@ -3,7 +3,7 @@ title:  Data Science in Agriculture
 summary: Application of data science in agriculture involving the use of data analysis, machine learning and statistics techniques. 
 tags:
   - Precision Farming Tools
-date: '2016-04-27T00:00:00Z'
+date: '2024-02-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,9 +17,9 @@ image:
   focal_point: Smart
   
 url_code: ''
-url_pdf: ''
-url_slides: https://drive.google.com/file/d/1HARBYVA1E5RAdGPaKlOwe6KZwb3iyQqT/view?usp=sharing
-url_video: ''
+url_pdf: 'https://drive.google.com/file/d/1CxgCB8wMVYgbWW0Q3WI7qYRtiUEaI05g/view?usp=sharing'
+url_slides: 
+url_video: 'https://drive.google.com/file/d/1aF2BMsa1tLMZzJbbQOb3NbohvlevuvPN/view?usp=sharing'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
