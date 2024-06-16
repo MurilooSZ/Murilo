@@ -31,7 +31,15 @@ url_video: ''
 A planting project was developed in an area of ​​200 hectares close to the city of Mirassol d'Oeste, MT. The planting lines were arranged following the contour lines of the terraces, with a spacing of 7 meters between them. Simultaneously, a spraying project was implemented in an area of ​​100 hectares, where headland maneuvers were fully automated, resulting in a fully automated spraying path.
 
 Benefits of Systematization Projects:
+
+
 • Increased Productivity: More efficient planting and spraying lead to better yields and less waste of inputs.
+
+
 • Cost Reduction: Automation and optimization reduce operational costs and input expenses.
+
+
 • Sustainability: More rational use of pesticides and fertilizers, minimizing environmental impact.
+
+
 • Precision and Control: Better control over agricultural operations, with accurate data to support decisions.
