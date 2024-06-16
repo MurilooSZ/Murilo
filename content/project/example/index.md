@@ -1,5 +1,5 @@
 ---
-title:  Introduction to Precision Agriculture
+title:  Data Science in Agriculture
 summary: Work presentation. 
 tags:
   - Precision Farming Tools
