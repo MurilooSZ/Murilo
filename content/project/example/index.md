@@ -28,17 +28,8 @@ url_video: 'https://drive.google.com/file/d/1aF2BMsa1tLMZzJbbQOb3NbohvlevuvPN/vi
 #   Otherwise, set `slides = ""`.
 ---
 
-Create a proposal for Precision Agriculture (AP) solutions for a Model Farm, containing at least 5 precision agriculture solutions. For each solution, a summary was made of which business "pain/problem" it would help at Fazenda Modelo.
-The work was presented to all students using PowerPoint.
+A data flow was developed, covering statistical analysis of variables, data set processing, model creation, model validation and testing. After identifying the properties with the highest correlation with the target variable (soybean productive potential), data analysis was carried out applying machine learning through multiple linear regression, using the Python programming language.
 
-Proposed Solutions:
+In statistical metrics, we obtained an R-squared value (R²) of 0.86 and an RMSE value of 0.04, indicating adequate precision and accuracy.
 
-Mapping of the farm and definitions of the environment of each plot with vegetative indices;
-
-Avoid planting failures;
-
-Improve the use of area and productivity;
-
-Improve sending harvesting/planting/spraying data and also machine parameters remotely;
-
-Remote sensing.
+Overall, the model performed well, especially considering the limited amount of data available for more extensive training, which made a more complete standardization check difficult.
